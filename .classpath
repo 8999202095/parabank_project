@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/byte-buddy-1.12.10.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/failsafe-3.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-buffer-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-codec-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-codec-http-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-codec-socks-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-common-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-handler-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-handler-proxy-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-resolver-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-transport-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-transport-classes-epoll-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-transport-classes-kqueue-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-transport-native-epoll-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-transport-native-kqueue-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/netty-transport-native-unix-common-4.1.78.Final.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/opentelemetry-api-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/opentelemetry-context-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/opentelemetry-exporter-logging-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/opentelemetry-sdk-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/opentelemetry-sdk-common-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/opentelemetry-sdk-extension-autoconfigure-1.15.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/opentelemetry-sdk-extension-autoconfigure-spi-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/opentelemetry-sdk-logs-1.15.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/opentelemetry-sdk-metrics-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/opentelemetry-sdk-trace-1.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/opentelemetry-semconv-1.15.0-alpha.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-api-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-api-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-chrome-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-chrome-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-chromium-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-chromium-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-devtools-v85-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-devtools-v85-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-devtools-v101-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-devtools-v101-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-devtools-v102-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-devtools-v102-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-devtools-v103-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-devtools-v103-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-edge-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-edge-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-firefox-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-firefox-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-http-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-http-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-ie-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-ie-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-java-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-java-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-json-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-json-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-opera-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-opera-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-remote-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-remote-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-safari-driver-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-safari-driver-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-support-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/selenium-support-4.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Automation Drivers Or Softwares/selenium-java-4.3.0/Main Folder/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Apache POI Library/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Apache POI Library/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Apache POI Library/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Apache POI Library/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Apache POI Library/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Apache POI Library/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Apache POI Library/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Apache POI Library/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Apache POI Library/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Apache POI Library/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/GAURAV/SOFTWARE TESTING_VELOCITY/AUTOMATION TESTING/Software/Apache POI Library/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
